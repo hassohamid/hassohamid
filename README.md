@@ -2,6 +2,10 @@
 
 ## 🌏 Hello `<coders>`! 👋
 
+I'm a **Fullstack Developer** with a passion for building web applications and creating user-friendly experiences. I specialize in both frontend and backend technologies and enjoy working on innovative projects.
+
+✨ Always learning, coding, and improving my skills!
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hassohamid&color=ff69b4&style=for-the-badge)
