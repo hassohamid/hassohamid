@@ -12,7 +12,7 @@ let interests = [
   'Software Engineering',
   'Design',
   'Running',
-  'Football',
+  'Sports',
   'NOCCO'
 ];
 ```
