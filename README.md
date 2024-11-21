@@ -27,4 +27,3 @@ let interests = [
 </div>
 
 
-___
