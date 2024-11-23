@@ -5,8 +5,8 @@
 ```js
 // Who am I?
 
-const name = 'Hasso Hamid';
-const gender = 'Male';
+const name = 'Hasso Hamid'
+const gender = 'Male'
 const country = 'Sweden'
 let interests = [
   'Software Engineering',
@@ -14,7 +14,7 @@ let interests = [
   'Running',
   'Sports',
   'NOCCO'
-];
+]
 ```
 
 
