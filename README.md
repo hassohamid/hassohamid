@@ -13,7 +13,7 @@ let interests = [
   'Design',
   'Running',
   'Sports',
-  'Staying Caffeinated'
+  'Caffeine'
 ]
 ```
 
