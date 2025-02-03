@@ -11,7 +11,7 @@ const country = 'Sweden'
 let interests = [
   'Software Engineering',
   'Design',
-  'Running',
+  'Gym',
   'Sports',
   'Caffeine'
 ]
