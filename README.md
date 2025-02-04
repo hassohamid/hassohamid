@@ -19,5 +19,5 @@ let interests = [
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=hassohamid&color=ff69b4&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=hassohamid&color=000000&style=for-the-badge)
 
