@@ -17,7 +17,3 @@ let interests = [
 ]
 ```
 
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=hassohamid&color=000000&style=for-the-badge)
-
